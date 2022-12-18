@@ -1,9 +1,8 @@
 <h1 align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=poetDeveloper&fontSize=50"/><br>:sunglasses:&nbsp;&nbsp;I'm A Frontend Developer who Understands Contents&nbsp;&nbsp;:sunglasses:</h1>
-<h2 align="center">
-MY SKILL
-</h2>
+
 <h3 align="center">
+MY SKILL<br><br>
 :books: TECH STACK :books:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
