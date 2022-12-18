@@ -1,7 +1,5 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=poetDeveloper&fontSize=60"/></h1>
-<h2 align="center">I'm A Frontend Developer who Understands Contents</h2>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=poetDeveloper&fontSize=50"/><br>I'm A Frontend Developer who Understands Contents</h1>
 <h2 align="center">
 MY SKILL
 </h2>
@@ -29,11 +27,16 @@ MY SKILL
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white"/></a>
 </p>
 
 ---
-### :telephone_receiver:&nbsp;&nbsp;CONTACT ME
-<a href="https://www.instagram.com/bkksgstudio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a><br>
-<poetdeveloper.iro@gmail.com><br>
+<h3 align="right">CONTACT ME&nbsp;&nbsp;:telephone_receiver:</p>
+<p align="right">
+<a href="https://bkksg.com/"><img src="https://img.shields.io/badge/BKKSG-5C2D91?style=for-the-badge&logo=Square&logoColor=white"/></a>
+<a href="https://www.instagram.com/bkksgstudio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:poetdeveloper.iro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
 
 
