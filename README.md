@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=poetDeveloper&fontSize=50"/><br>I'm A Frontend Developer who Understands Contents</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=poetDeveloper&fontSize=50"/><br>:sunglasses:&nbsp;&nbsp;I'm A Frontend Developer who Understands Contents&nbsp;&nbsp;:sunglasses:</h1>
 <h2 align="center">
 MY SKILL
 </h2>
