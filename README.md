@@ -30,6 +30,13 @@ MY SKILL<br><br>
 </p>
 
 ---
+<h3 align="right">:sparkles:&nbsp;I Love</h3>
+<p align="right">
+🎨 Art 
+✏️ Writing 📚 Book 
+🎵 Music  🎹 Piano &nbsp;
+</p>
+
 <h3 align="right">CONTACT ME&nbsp;&nbsp;:telephone_receiver:</p>
 <p align="right">
 <a href="https://bkksg.com/"><img src="https://img.shields.io/badge/BKKSG-5C2D91?style=for-the-badge&logo=Square&logoColor=white"/></a>
