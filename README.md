@@ -25,6 +25,8 @@ MY SKILL<br><br>
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Indesign-db0b6c?style=for-the-badge&logo=Adobe Indesign&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Premiere-730bdb?style=for-the-badge&logo=Adobe Premiere&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white"/></a>
 </p>
@@ -34,7 +36,7 @@ MY SKILL<br><br>
 <p align="right">
 🎨 Art 
 ✏️ Writing 📚 Book 
-🎵 Music  🎹 Piano &nbsp;
+🎵 Music  🎹 Piano 🎸 Guitar &nbsp;
 </p>
 
 <h3 align="right">CONTACT ME&nbsp;&nbsp;:telephone_receiver:</p>
