@@ -42,7 +42,6 @@ MY SKILL<br><br>
 <h3 align="right">CONTACT ME&nbsp;&nbsp;:telephone_receiver:</p>
 <p align="right">
 <a href="https://bkksg.com/"><img src="https://img.shields.io/badge/BKKSG-5C2D91?style=for-the-badge&logo=Square&logoColor=white"/></a>
-<a href="https://www.instagram.com/bkksgstudio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:poetdeveloper.iro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
