@@ -1,5 +1,7 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=poetDeveloper&fontSize=50"/><br>:sunglasses:&nbsp;&nbsp;I'm A Frontend Developer who Understands Contents&nbsp;&nbsp;:sunglasses:</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=poetDeveloper&fontSize=50"/><br>:sunglasses:&nbsp;&nbsp;IROLIM&nbsp;:sunglasses:</h1>
+
+<h4 align="center">Researcher, Author</h4>
 
 <h3 align="center">
 MY SKILL<br><br>
@@ -40,6 +42,7 @@ Adobe photoshop, Adobe Illustrator, Adobe Indesign, Adobe Premier
 <p align="right">
 <a href="https://bkksg.com/"><img src="https://img.shields.io/badge/BKKSG-5C2D91?style=for-the-badge&logo=Square&logoColor=white"/></a>
 <a href="mailto:poetdeveloper.iro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://digitalhumanities.kr/members/3.%20%EC%9E%84%EC%9D%B4%EB%A1%9C.html"><img src="https://img.shields.io/badge/AKS-blue?style=for-the-badge&logo=Circle&logoColor=white""/></a>
 </p>
 
 
